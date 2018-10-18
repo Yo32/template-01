@@ -1,0 +1,50 @@
+body {
+  background-color: white;
+}
+. D {
+  border: 1px;
+  margin: 1px;
+  padding: 2px;
+}
+#LS {
+  background-color: rgb(170, 22, 126);
+}
+#nav {
+  float: left;
+  background-color: rgb(0, 207, 45);
+  width: 30%;
+  height: 100%;
+}
+#RS {
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(255, 255, 255);
+  float: right;
+  width: 70%;
+  height: 100%;
+}
+#head {
+  margin-bottom: 15px;
+  margin-left: 15px;
+  background-color: rgb(0, 207, 45);
+  height: 18%;
+}
+#art {
+  margin-bottom: 15px;
+  margin-left: 15px;
+  background-color: rgb(0, 207, 45);
+  height: 40%;
+}
+#ADS {
+  margin-bottom: 15px;
+  margin-left: 15px;
+  background-color: rgb(0, 207, 45);
+  height: 18%;
+}
+#foot {
+  margin-bottom: 15px;
+  margin-left: 15px;
+  background-color: rgb(0, 207, 45);
+  height: 18%;
+}
